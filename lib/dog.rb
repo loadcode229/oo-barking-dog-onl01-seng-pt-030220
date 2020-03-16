@@ -11,3 +11,4 @@ class Dog
 end
 rey = Dog.new
 rey.name = "Rey"
+rey
